@@ -1,0 +1,6 @@
+[submodule "fancywebsite"]
+	path = fancywebsite
+	url = https://github.com/vdragon411/fancywebsite
+[submodule "TicTacToe"]
+	path = TicTacToe
+	url = https://github.com/vdragon411/TicTacToe
